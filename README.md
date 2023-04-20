@@ -7,8 +7,7 @@
 
 ## Table of Content
 
-
-**1. SQL: Logical Operators **
+**1. SQL: Logical Operators**
  - Not_Equal.sql
  - Not_Like.sql
  - Greater_than.sql
