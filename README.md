@@ -10,7 +10,15 @@
 
 **1. SQL: Logical Operators **
  - Not_Equal.sql
- -
+ - Not_Like.sql
+ - Greater_than.sql
+ - Less_than.sql
+ - Logical_AND.sql
+ - Logical_OR.sql
+ - Between.sql
+ - IN_NOT_IN.sql
+ - CASE_Statements.sql
+ - Logical_Operators_Exercise.sql
 ## Project Description
 
 **Logical Operators:**
